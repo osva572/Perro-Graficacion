@@ -59,6 +59,8 @@ class crearEscenaGraficaPerro {
         cola2.tgCapsula.setTransform(t3dMoverColita2);
         //<------ FIN FINAL COLA-------->
         
+        //solo es para probar que si funcione el pull 
+        
     }
     
 }
